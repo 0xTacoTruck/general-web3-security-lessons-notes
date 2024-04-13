@@ -32,4 +32,4 @@ I plan to take the broader Security and Auditing notes from each course and brin
 3. notebooks
    1. Quick-Solidity-Review: `refresher for Solidity and on some useful tools and testing`
    2. what-is-a-smart-contract-audit: `introduction to audits, rekts test, security tools, top web3 attacks`
-   3. detailed-phase-1-auditing-process: `step-by-step guide on carrying out phase 1 of a security review/audit. Includes super help info`
+   3. detailed-phase-1-auditing-process: `step-by-step guide on carrying out phase 1 of a security review/audit. Includes super helpful info and resources`
