@@ -21,7 +21,15 @@ For the SCH courses, I will have public repositories but I will not provide rest
 I plan to take the broader Security and Auditing notes from each course and bring them into this repository.
 
 
-## Contents
+## Contents of Repo
 
-1. Quick-Solidity-Review - refresher for Solidity and on some useful tools and testing
-2. what-is-a-smart-contract-audit - introduction to audits, rekts test, security tools, top web3 attacks
+1. client-oboarding-templates
+   1. minimal-oboarding-questions: `minimal questions to ask when onbaording clients for security review`
+   2. extensive-oboarding-questions: `more intensive set of questions to ask when onbaording clients for security review`
+2. security-review-templates
+   1. findings-layout: `findings template to use during the security review process. We can then copy these into final report`
+   2. report-template: `final report template that we can use with pandoc and LaTeX to cover into a PDF`
+3. notebooks
+   1. Quick-Solidity-Review: `refresher for Solidity and on some useful tools and testing`
+   2. what-is-a-smart-contract-audit: `introduction to audits, rekts test, security tools, top web3 attacks`
+   3. detailed-phase-1-auditing-process: `step-by-step guide on carrying out phase 1 of a security review/audit. Includes super help info`

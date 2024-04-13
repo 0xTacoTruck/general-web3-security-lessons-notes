@@ -47,7 +47,7 @@
 
 - functions in soldity be default will reject and revert if ether is sent with the transaction calling the function, UNLESS we specify that the function is 'payable'
 - transaction to just transfer ether, no calldata provided (not calling a function or anything) demo of what occurs
-  - ![Flowchart of Receive and Fallback](support_notes/recieve_fallback_flow_demo.PNG)
+  - ![Fallback and Receive Demo](img/recieve_fallback_flow_demo.PNG)
 - Contracts that do not have defined receive and fallback functions cannot accept native Eth
 
 ## Self-Destruct
