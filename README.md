@@ -33,3 +33,12 @@ I plan to take the broader Security and Auditing notes from each course and brin
    1. Quick-Solidity-Review: `refresher for Solidity and on some useful tools and testing`
    2. what-is-a-smart-contract-audit: `introduction to audits, rekts test, security tools, top web3 attacks`
    3. detailed-phase-1-auditing-process: `step-by-step guide on carrying out phase 1 of a security review/audit. Includes super helpful info and resources`
+   4. denial-of-service: `Intro to DoS attacks, mitigations, case studies`
+   5. floating-pragma: `Intro to floating pragmas`
+   6. integer-overflow: `Intro to integer overflow attacks and mitigations`
+   7. mishandling-of-eth: `Intro to mishandling of ETH, what it is, how it can happen, case study`
+   8. reentrancy-notes: `Intro to reentrancy attacks, example, attacker mindset questions when looking over codebases, attack vectors`
+   9. static-analysis: `Intro to static analysis tools, how they work, and what they do`
+   10. unsafe-casting: `Intro to unsafe casting and how it can lead to significant problems`
+   11. weak-randomness: `What it is, how it happens`
+   12. security-resources: `List of useful links to security resources`
