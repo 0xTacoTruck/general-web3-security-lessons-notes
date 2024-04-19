@@ -16,7 +16,7 @@ I am undertaking, or planning to undertake, the following web3 security and audi
 
 I will have public repositories for the Cyfrin courses, where I will also inlcude any files created during the course.
 
-For the SCH courses, I will have public repositories but I will not provide restricted course material. It will contain specific notes on various topics.
+For the SCH courses, I may have public repositories but I will not provide restricted course material. If these public repositories exist, they will only contain specific notes on various topics around Web3 security.
 
 I plan to take the broader Security and Auditing notes from each course and bring them into this repository.
 
